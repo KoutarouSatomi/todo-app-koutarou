@@ -1,0 +1,128 @@
+.photo {
+  margin: 10px;
+  height: auto;
+  width: 30vh;
+  max-width: 80%;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 54px 55px,
+    rgba(0, 0, 0, 0.2) 0px -12px 30px, rgba(0, 0, 0, 0.18) 0px 4px 6px,
+    rgba(0, 0, 0, 0.25) 0px 12px 13px, rgba(0, 0, 0, 0.15) 0px -3px 5px;
+}
+.text-profile {
+  background-color: #0000007d;
+  margin: 30px;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 3vh;
+  color: #fff;
+  height: 45vh;
+}
+.name {
+  text-align: center;
+  font-size: 3vh;
+  color: #fff;
+}
+.contact {
+  border-style: inset;
+  width: 40%;
+  text-align: center;
+  margin: 30px 20px 20px 30px;
+  border-radius: 20px;
+  padding: 20px;
+}
+.infomation {
+  float: right;
+  width: 50%;
+  margin: 30px;
+  text-align: center;
+  border-style: inset;
+  border-radius: 20px;
+  padding: 15px;
+}
+.icons {
+  font-size: 45px;
+  width: 23ch;
+  text-align: center;
+  margin: 20px;
+  transition: all 0.3s;
+}
+a {
+  color: #fff;
+}
+
+.fa-facebook:hover {
+  color: #3b5998;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #4267b2;
+}
+.fa-instagram:hover {
+  background: #f09433;
+  border-radius: 6px;
+  box-shadow: 5px 5px 5px palevioletred;
+  background: -moz-linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
+  background: -webkit-linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
+  background: linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+}
+.fa-tiktok:hover {
+  background-color: black;
+  font-size: 47px;
+  box-shadow: 5px 5px 5px red;
+  border-radius: 6px;
+}
+.fa-twitter:hover {
+  color: #1da1f2;
+  box-shadow: 5px 5px 5px skyblue;
+  background: white;
+  border-radius: 6px;
+}
+
+.dashboard {
+  font-size: 3vh;
+  color: #fff;
+  background-color: #0000007d;
+  width: 100vh;
+}
+.welcome {
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: rgba(22, 172, 226, 0.65) 0px 50px 100px -20px,
+    rgba(22, 172, 226, 0.7) 0px 30px 60px -30px;
+}
+.dashboard {
+  border-radius: 20px;
+}
+.dashboard h1 {
+  padding: 20px;
+}
+
+.container2 {
+  background-color: #0000007d;
+  width: 100vh;
+  margin-top: 30vh;
+  border-radius: 20px;
+  box-shadow: rgba(22, 172, 226, 0.65) 0px 50px 100px -20px,
+    rgba(22, 172, 226, 0.7) 0px 30px 60px -30px;
+}
